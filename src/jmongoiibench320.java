@@ -87,7 +87,7 @@ public class jmongoiibench320 {
     
     public static int allDone = 0;
     
-    public jmongoiibench() {
+    public jmongoiibench320() {
     }
 
     public static void main (String[] args) throws Exception {
